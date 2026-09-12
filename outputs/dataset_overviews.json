@@ -1,0 +1,126 @@
+{
+  "dataset_a": {
+    "dataset_name": "dataset_a",
+    "n_sessions": 63,
+    "total_chunks": 133,
+    "total_events": 162768,
+    "mean_events_per_session": 2583.6190476190477,
+    "median_events_per_session": 2577.0,
+    "total_duration_hours": 25.625805277777776,
+    "mean_session_duration_min": 24.40552883597883,
+    "event_types_top": {
+      "app_switch": 50588,
+      "keystroke": 38717,
+      "screenshot_smart": 34580,
+      "shortcut": 13668,
+      "mouse_click": 6177,
+      "browser_click": 5365,
+      "clipboard_change": 5198,
+      "mouse_scroll": 3180,
+      "browser_form_input": 1805,
+      "browser_navigation": 1725,
+      "window_title_change": 451,
+      "window_state_change": 232,
+      "browser_error": 200,
+      "browser_alert": 137,
+      "text_input_complete": 118
+    },
+    "layers_distribution": {
+      "SYSTEM": 124,
+      "L2": 118399,
+      "L1": 34580,
+      "L3": 9335
+    },
+    "top_apps": {
+      "chrome": 118134,
+      "notepad": 30234,
+      "word": 5365,
+      "microsoft powerpoint": 3234,
+      "explorer": 1960,
+      "terminal": 1702,
+      "excel": 887,
+      "procmine_agent": 320,
+      "olk": 182,
+      "unknown": 135
+    },
+    "top_domains": {
+      "127.0.0.1:5122": 30759,
+      "127.0.0.1:5123": 28257,
+      "127.0.0.1:5124": 26145,
+      "www.nta.go.jp": 133,
+      "www.nenkin.go.jp": 105,
+      "app.slack.com": 74,
+      "www.mhlw.go.jp": 60,
+      "newtab": 46,
+      "github.com": 24,
+      "www.youtube.com": 24
+    },
+    "machines": {
+      "LAPTOP-R36BQBTE": 7,
+      "CHAITANYA0BCF": 12,
+      "JAYESH": 2,
+      "SIDDHIGUPTAB00B": 12,
+      "MSI": 8,
+      "yuvraj": 5,
+      "Marcos": 10,
+      "LAPTOP-0IM1OHQH": 7
+    }
+  },
+  "dataset_b": {
+    "dataset_name": "dataset_b",
+    "n_sessions": 15,
+    "total_chunks": 20,
+    "total_events": 20477,
+    "mean_events_per_session": 1365.1333333333334,
+    "median_events_per_session": 1349.0,
+    "total_duration_hours": 2.937453055555556,
+    "mean_session_duration_min": 11.749812222222223,
+    "event_types_top": {
+      "screenshot_smart": 4759,
+      "keystroke": 4678,
+      "mouse_click": 2133,
+      "browser_click": 1914,
+      "mouse_scroll": 1724,
+      "app_switch": 1654,
+      "shortcut": 1386,
+      "clipboard_change": 872,
+      "browser_form_input": 608,
+      "browser_navigation": 204,
+      "window_title_change": 186,
+      "window_state_change": 120,
+      "text_input_complete": 77,
+      "browser_error": 38,
+      "session_start": 15
+    },
+    "layers_distribution": {
+      "SYSTEM": 30,
+      "L2": 12831,
+      "L1": 4759,
+      "L3": 2764
+    },
+    "top_apps": {
+      "msedge": 13300,
+      "word": 3704,
+      "excel": 1201,
+      "openwith": 757,
+      "notepad": 599,
+      "terminal": 407,
+      "procmine_agent": 205,
+      "explorer": 78,
+      "ms-teams": 73,
+      "unknown": 32
+    },
+    "top_domains": {
+      "127.0.0.1:5132": 3926,
+      "127.0.0.1:5133": 3094,
+      "127.0.0.1:5134": 2476,
+      "app.slack.com": 32
+    },
+    "machines": {
+      "CHAITANYA0BCF": 2,
+      "SIDDHIGUPTAB00B": 3,
+      "NEELA9BAF": 5,
+      "LAPTOP-76QMG9DE": 5
+    }
+  }
+}
