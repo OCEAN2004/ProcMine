@@ -1,0 +1,13 @@
+process_label,execution_count,total_duration_min,median_duration_sec,impact_score,repetition_score,feasibility_score,risk_factor,complexity_factor,priority_score
+finance_resident_tax,10,11.61,43.2,6.87,7.2,8.5,2.0,3.0,70.04
+hr_payroll_processing,11,17.46,84.7,8.49,7.09,9.0,2.5,3.5,61.93
+finance_payroll_processing,11,22.68,88.1,9.54,6.0,9.0,2.5,3.5,58.85
+ops_payroll_processing,9,17.5,75.9,7.59,6.0,9.0,2.5,3.0,54.65
+hr_onboarding_verification,10,24.65,76.0,9.48,6.4,5.0,3.5,3.5,24.75
+hr_leave_applications,8,14.7,107.1,6.58,6.5,6.0,3.0,3.5,24.42
+ops_leave_applications,8,15.41,116.0,6.72,6.0,6.0,3.0,3.5,23.03
+ops_social_insurance,5,14.15,56.5,5.1,6.0,6.5,4.0,3.0,16.58
+finance_onboarding_verification,8,8.03,58.6,5.24,6.5,5.0,3.5,3.0,16.23
+hr_social_insurance,5,9.35,123.1,4.14,6.0,6.5,4.0,3.0,13.47
+finance_leave_applications,4,6.61,98.0,3.14,6.0,6.0,3.0,3.0,12.56
+finance_social_insurance,3,5.7,90.7,2.5,6.0,6.5,4.0,3.5,6.98

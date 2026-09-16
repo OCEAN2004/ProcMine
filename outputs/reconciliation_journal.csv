@@ -1,0 +1,8 @@
+case_id,entity_name,department,claim_category,base_amount,overtime_hours,claimed_total,computed_total,variance_amount,variance_percent,status,notes,timestamp_utc
+P6-07010448-001,福岡システム設計,Finance,Outsourced_IT_Services,450000.0,20.0,505000.0,505000.0,0.0,0.0,AUTO_APPROVED,"Verified: Computed 505,000 matches claimed within 0.00%.",2026-09-10T19:18:40.181Z
+P6-07010448-002,関西物流サービス,Finance,Logistics_Transport,280000.0,15.0,308000.0,308000.0,0.0,0.0,AUTO_APPROVED,"Verified: Computed 308,000 matches claimed within 0.00%.",2026-09-10T19:18:40.181Z
+P6-07010448-003,北陸部品工業株式会社,Finance,Parts_Manufacturing,600000.0,10.0,617000.0,616000.0,1000.0,0.16,AUTO_APPROVED,"Verified: Computed 616,000 matches claimed within 0.16%.",2026-09-10T19:18:40.181Z
+P6-07010448-004,千葉金属工業,Finance,Hardware_Supply,350000.0,8.0,385000.0,360800.0,24200.0,6.71,MANUALLY_APPROVED,"Material variance detected: Claimed 385,000 vs Computed 360,800 (Diff: +24,200, 6.71%). Escalated for human review. [MANUALLY APPROVED by Operator SAGAR on 2026-09-11]",2026-09-10T19:18:40.181Z
+P4-07010448-005,川口 直樹,HR,Employee_Payroll_Deduction,320000.0,12.0,317700.0,317700.0,0.0,0.0,AUTO_APPROVED,"Verified: Computed 317,700 matches claimed within 0.00%.",2026-09-10T19:18:40.181Z
+P6-07010448-006,新日本テクノロジーズ株式会社,Finance,Consulting_Services,500000.0,0.0,500000.0,500000.0,0.0,100.0,MANUALLY_APPROVED,Unregistered entity '新日本テクノロジーズ株式会社'. Master rate lookup missing. [MANUALLY APPROVED by Operator SAGAR on 2026-09-11],2026-09-10T19:18:40.181Z
+P6-07010448-007,福岡システム設計,Finance,Outsourced_IT_Services,-10000.0,0.0,10000.0,0.0,10000.0,100.0,VALIDATION_ERROR,Validation failed: Monetary and hour values must be non-negative,2026-09-10T19:18:40.181Z
